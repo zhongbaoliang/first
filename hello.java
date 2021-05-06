@@ -2,5 +2,8 @@
 public class hello {
     public static void hellos(){
         System.out.println("Hello, i am ubantuCode!");
+        System.out.println("Hello ,i am windowsCode!");\
+        System.out.println("Hello ,i am Code!");
     }
 }
+
