@@ -2,7 +2,7 @@
 public class hello {
 
 
-    public static void hellos(){
+    public static void main(){
 
         System.out.println("Hello ,i am windowsCode!");
     }
